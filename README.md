@@ -138,5 +138,5 @@ Use the excel file in the datasets folder of this repository
 </p>
 
 # Conclusion
-  In this project, I used TF-IDF to create weight frequecy of words to measure the distance between 14 documents of surah Al-fatihah with cosine similarity.
-# Suggestion
+  In this project, I used TF-IDF to create weight frequecy of words to measure the distance between 14 documents of surah Al-fatihah with cosine similarity. For conclusion, we can see the good rusult
+
