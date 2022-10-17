@@ -18,7 +18,7 @@
 ### Steps to do
 
 <p float="left">
- <img src="data 1.png" alt="data" width="500"/> 
+ <img src="2.PNG" alt="data" width="500"/> 
 </p>
 
 - Data Access 
@@ -32,20 +32,20 @@
 Use the excel file in the datasets folder of this repository
 
 <p float="left">
- <img src="3.png" alt="data" width="100"/> 
+ <img src=".png" alt="data" width="100"/> 
 </p>
 
 ####  Tranform Data
 
 <p float="left">
- <img src="2.png" alt="data" width="500"/> 
+ <img src=".png" alt="data" width="500"/> 
 </p>
 
 - Use Column filter node to remove unused column(surah,text,ayat)
 - Use Tranpose node to tranpose data 
 - Use Column combiner to combine 7 columns into a single column.
 <p float="left">
- <img src="9.png" alt="data" width="500"/> 
+ <img src=".png" alt="data" width="500"/> 
 </p>
 
 - Use Column filter node to remove unused column(all column except new column)
@@ -58,7 +58,7 @@ Use the excel file in the datasets folder of this repository
 ####  Text preprocessing
 
 <p float="left">
- <img src="4.png" alt="data" width="500"/> 
+ <img src=".png" alt="data" width="500"/> 
 </p>
 
 - Use String to Document node to change string to document
@@ -70,7 +70,7 @@ Use the excel file in the datasets folder of this repository
 - Use Standford Lammatizer node to make the verb to be base form
 
 <p float="left">
- <img src="8.png" alt="data" width="500"/> 
+ <img src=".png" alt="data" width="500"/> 
 </p>
 
 - Use Bag of Word Creator node to create bag of word
