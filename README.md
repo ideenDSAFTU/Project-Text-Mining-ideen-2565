@@ -45,7 +45,7 @@ Use the excel file in the datasets folder of this repository
 - Use Tranpose node to tranpose data 
 - Use Column combiner to combine 7 columns into a single column.
 <p float="left">
- <img src=".PNG" alt="data" width="500"/> 
+ <img src="2.1.PNG" alt="data" width="500"/> 
 </p>
 
 - Use Column filter node to remove unused column(all column except new column)
@@ -70,7 +70,7 @@ Use the excel file in the datasets folder of this repository
 - Use Standford Lammatizer node to make the verb to be base form
 
 <p float="left">
- <img src=".png" alt="data" width="500"/> 
+ <img src="4.1.png" alt="data" width="500"/> 
 </p>
 
 - Use Bag of Word Creator node to create bag of word
@@ -134,7 +134,7 @@ Use the excel file in the datasets folder of this repository
 </p>
 
 <p float="left">
- <img src="18.png" alt="data" width="500"/> 
+ <img src="20.PNG" alt="data" width="500"/> 
 </p>
 
 # Conclusion
