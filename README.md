@@ -38,14 +38,14 @@ Use the excel file in the datasets folder of this repository
 ####  Tranform Data
 
 <p float="left">
- <img src=".png" alt="data" width="200"/> 
+ <img src="3.PNG" alt="data" width="200"/> 
 </p>
 
 - Use Column filter node to remove unused column(surah,text,ayat)
 - Use Tranpose node to tranpose data 
 - Use Column combiner to combine 7 columns into a single column.
 <p float="left">
- <img src=".png" alt="data" width="500"/> 
+ <img src=".PNG" alt="data" width="500"/> 
 </p>
 
 - Use Column filter node to remove unused column(all column except new column)
@@ -58,7 +58,7 @@ Use the excel file in the datasets folder of this repository
 ####  Text preprocessing
 
 <p float="left">
- <img src=".png" alt="data" width="500"/> 
+ <img src="4.PNG" alt="data" width="500"/> 
 </p>
 
 - Use String to Document node to change string to document
@@ -78,7 +78,7 @@ Use the excel file in the datasets folder of this repository
 ####  Model 
 
 <p float="left">
- <img src="5.png" alt="data" width="500"/> 
+ <img src="5.PNG" alt="data" width="500"/> 
 </p>
 
 - Use TF-IDF node to be Model
@@ -98,7 +98,7 @@ Use the excel file in the datasets folder of this repository
 
 #### Result of Data access
 <p float="left">
- <img src="16.png" alt="data" width="500"/> 
+ <img src="6.PNG" alt="data" width="500"/> 
 </p>
 
 #### Result of Tranform Data 
