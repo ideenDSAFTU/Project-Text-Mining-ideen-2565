@@ -118,19 +118,19 @@ Use the excel file in the datasets folder of this repository
 
 #### Result of IDF
 <p float="left">
- <img src="12.png" alt="data" width="500"/> 
+ <img src="IDF.PNG" alt="data" width="500"/> 
 </p>
 
 #### Result of cosine similarity
 
 <p float="left">
- <img src="14.png" alt="data" width="500"/> 
+ <img src="cosine similarity.PNG" alt="data" width="500"/> 
 </p>
 
 #### Result of cosine similarity to see similarity  between documents
 
 <p float="left">
- <img src="19.png" alt="data" width="500"/> 
+ <img src="19.PNG" alt="data" width="500"/> 
 </p>
 
 <p float="left">
