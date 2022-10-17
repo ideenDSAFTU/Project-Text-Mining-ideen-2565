@@ -103,17 +103,17 @@ Use the excel file in the datasets folder of this repository
 
 #### Result of Tranform Data 
 <p float="left">
- <img src="17.png" alt="data" width="500"/> 
+ <img src="Tranform Data.PNG" alt="data" width="500"/> 
 </p>
 
 #### Result of Text Processing 
 <p float="left">
- <img src="20.png" alt="data" width="500"/> 
+ <img src="Text Processing.PNG" alt="data" width="500"/> 
 </p>
 
 #### Result of TF
 <p float="left">
- <img src="11.png" alt="data" width="500"/> 
+ <img src="TF.PNG" alt="data" width="500"/> 
 </p>
 
 #### Result of IDF
