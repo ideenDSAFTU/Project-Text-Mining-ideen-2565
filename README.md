@@ -38,7 +38,7 @@ Use the excel file in the datasets folder of this repository
 ####  Tranform Data
 
 <p float="left">
- <img src="3.PNG" alt="data" width="200"/> 
+ <img src="3.PNG" alt="data" width="500"/> 
 </p>
 
 - Use Column filter node to remove unused column(surah,text,ayat)
