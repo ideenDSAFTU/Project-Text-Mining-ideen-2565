@@ -91,14 +91,14 @@ Use the excel file in the datasets folder of this repository
 ###  Cosine similarity
 
 <p float="left">
- <img src="10.png" alt="data" width="500"/> 
+ <img src="6.png" alt="data" width="500"/> 
 </p>
 
 ## Result
 
 #### Result of Data access
 <p float="left">
- <img src="6.PNG" alt="data" width="500"/> 
+ <img src=".PNG" alt="data" width="500"/> 
 </p>
 
 #### Result of Tranform Data 
