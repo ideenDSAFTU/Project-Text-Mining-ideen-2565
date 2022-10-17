@@ -8,10 +8,10 @@
 
 ## Methodology
 ### Tools of use
-- a computer
 - Knime Analytics Platform
 - Ecxel
 - GitHub, GitHub Desktop
+
 ### package in need
 - Textproccessing (in knime)
 
@@ -138,5 +138,5 @@ Use the excel file in the datasets folder of this repository
 </p>
 
 # Conclusion
-
+  In this project, I used TF-IDF to create weight frequecy of words to measure the distance between 14 documents of surah Al-fatihah with cosine similarity.
 # Suggestion
