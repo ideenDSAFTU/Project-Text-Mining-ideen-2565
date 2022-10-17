@@ -32,13 +32,13 @@
 Use the excel file in the datasets folder of this repository
 
 <p float="left">
- <img src=".png" alt="data" width="100"/> 
+ <img src="1.PNG" alt="data" width="200"/> 
 </p>
 
 ####  Tranform Data
 
 <p float="left">
- <img src=".png" alt="data" width="500"/> 
+ <img src=".png" alt="data" width="200"/> 
 </p>
 
 - Use Column filter node to remove unused column(surah,text,ayat)
