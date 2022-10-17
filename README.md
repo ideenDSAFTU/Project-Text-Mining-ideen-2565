@@ -91,7 +91,7 @@ Use the excel file in the datasets folder of this repository
 ###  Cosine similarity
 
 <p float="left">
- <img src="6.png" alt="data" width="500"/> 
+ <img src="6.PNG" alt="data" width="500"/> 
 </p>
 
 ## Result
