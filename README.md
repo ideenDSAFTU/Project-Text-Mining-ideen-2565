@@ -18,7 +18,7 @@
 ### Steps to do
 
 <p float="left">
- <img src="1.PNG" alt="data" width="400"/> 
+ <img src="1.PNG" alt="data" width="700"/> 
 </p>
 
 - Data Access 
@@ -32,7 +32,7 @@
 Use the excel file in the datasets folder of this repository
 
 <p float="left">
- <img src="2.PNG" alt="data" width="300"/> 
+ <img src="2.PNG" alt="data" width="200"/> 
 </p>
 
 ####  Tranform Data
