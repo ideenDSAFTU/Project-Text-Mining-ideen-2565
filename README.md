@@ -70,7 +70,7 @@ Use the excel file in the datasets folder of this repository
 - Use Standford Lammatizer node to make the verb to be base form
 
 <p float="left">
- <img src="4.1.png" alt="data" width="500"/> 
+ <img src="4.1.PNG" alt="data" width="500"/> 
 </p>
 
 - Use Bag of Word Creator node to create bag of word
