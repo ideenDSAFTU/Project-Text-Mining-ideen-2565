@@ -18,7 +18,7 @@
 ### Steps to do
 
 <p float="left">
- <img src="7.png" alt="data" width="500"/> 
+ <img src="1.png" alt="data" width="500"/> 
 </p>
 
 - Data Access 
