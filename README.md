@@ -134,7 +134,7 @@ Use the excel file in the datasets folder of this repository
 </p>
 
 <p float="left">
- <img src="20.PNG" alt="data" width="500"/> 
+ <img src="21.PNG" alt="data" width="500"/> 
 </p>
 
 # Conclusion
