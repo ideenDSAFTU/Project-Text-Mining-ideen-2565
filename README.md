@@ -98,7 +98,7 @@ Use the excel file in the datasets folder of this repository
 
 #### Result of Data access
 <p float="left">
- <img src=".PNG" alt="data" width="500"/> 
+ <img src="Data access.PNG" alt="data" width="500"/> 
 </p>
 
 #### Result of Tranform Data 
